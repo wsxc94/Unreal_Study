@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "test",
+			"Path": "C:\\Users\\안영훈\\OneDrive\\바탕 화면\\UnrealProject\\test\\Source\\test.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "testEditor",
+			"Path": "C:\\Users\\안영훈\\OneDrive\\바탕 화면\\UnrealProject\\test\\Source\\testEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
