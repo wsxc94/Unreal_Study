@@ -1,0 +1,2 @@
+C:\Users\wx94\UnrealStudy\serverTest\Intermediate\Build\Win64\UE4Editor\Development\serverTest\Definitions.serverTest.h
+c:\users\wx94\unrealstudy\servertest\source\servertest\serverTest.h

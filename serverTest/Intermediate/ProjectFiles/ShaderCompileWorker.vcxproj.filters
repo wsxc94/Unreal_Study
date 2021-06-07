@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\ShaderCompileWorker\ShaderCompileWorker.Target.cs" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{963C7144-FACB-47CE-8A1C-E122235607B7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Programs\ShaderCompileWorker\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{1FAFF319-6058-4FB2-AD1A-5877604724EF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Programs\ShaderCompileWorker\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\ShaderCompileWorker\ShaderCompileWorker.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{C24B6E5F-DFF8-4DB3-8977-BE413167BD40}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\ShaderCompileWorker\Private\ShaderCompileWorker.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\ShaderCompileWorker\Private\XGEControlWorker.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

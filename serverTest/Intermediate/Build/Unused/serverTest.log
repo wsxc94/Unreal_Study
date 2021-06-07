@@ -1,0 +1,23 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\wx94\UnrealStudy).
+  Creating makefile for serverTestEditor (no existing makefile)
+  Creating makefile for UnrealHeaderTool (no existing makefile)
+  Parsing headers for serverTestEditor
+    Running UnrealHeaderTool "C:\Users\wx94\UnrealStudy\serverTest\serverTest.uproject" "C:\Users\wx94\UnrealStudy\serverTest\Intermediate\Build\Win64\serverTestEditor\Development\serverTestEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Program Files (x86)\Epic Games\UE4\4.26\Engine\Programs\UnrealBuildTool\Log_UHT.txt"
+  Reflection code generated for serverTestEditor in 3.869636 seconds
+  Creating makefile for ShaderCompileWorker (no existing makefile)
+  Building serverTestEditor and ShaderCompileWorker...
+  Using Visual Studio 2017 14.16.27045 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 9 actions with 6 processes...
+    [1/9] serverTest.cpp
+    [2/9] serverTest.init.gen.cpp
+    [3/9] serverTestCharacter.gen.cpp
+    [4/9] serverTestGameMode.cpp
+    [5/9] serverTestGameMode.gen.cpp
+    [6/9] serverTestCharacter.cpp
+    [7/9] UE4Editor-serverTest.lib
+       C:\Users\wx94\UnrealStudy\serverTest\Intermediate\Build\Win64\UE4Editor\Development\serverTest\UE4Editor-serverTest.lib 라이브러리 및 C:\Users\wx94\UnrealStudy\serverTest\Intermediate\Build\Win64\UE4Editor\Development\serverTest\UE4Editor-serverTest.exp 개체를 생성하고 있습니다.
+    [8/9] UE4Editor-serverTest.dll
+       C:\Users\wx94\UnrealStudy\serverTest\Intermediate\Build\Win64\UE4Editor\Development\serverTest\UE4Editor-serverTest.suppressed.lib 라이브러리 및 C:\Users\wx94\UnrealStudy\serverTest\Intermediate\Build\Win64\UE4Editor\Development\serverTest\UE4Editor-serverTest.suppressed.exp 개체를 생성하고 있습니다.
+    [9/9] serverTestEditor.target
+  Total time in Parallel executor: 3.82 seconds
+  Total execution time: 14.17 seconds

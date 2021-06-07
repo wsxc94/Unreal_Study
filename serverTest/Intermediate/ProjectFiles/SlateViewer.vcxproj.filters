@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\SlateViewer\SlateViewer.Target.cs" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\SlateViewer\SlateViewer.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{E009774D-0A56-4984-8C19-71F1F73D8C09}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\SlateViewer\Private\SlateViewerApp.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <Filter Include="Private\IOS">
+      <UniqueIdentifier>{8A9BA92E-CDBF-4FC4-8D44-7789C4BA51E4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\SlateViewer\Private\IOS\IOSSlateViewerMain.cpp">
+      <Filter>Private\IOS</Filter>
+    </ClCompile>
+    <Filter Include="Private\Linux">
+      <UniqueIdentifier>{6B6FE760-902B-47F3-8638-E66A908A820F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\SlateViewer\Private\Linux\SlateViewerMainLinux.cpp">
+      <Filter>Private\Linux</Filter>
+    </ClCompile>
+    <Filter Include="Private\Mac">
+      <UniqueIdentifier>{3CBC9003-EC86-4A56-BFA8-085E320CF99B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\SlateViewer\Private\Mac\SlateViewerMainMac.cpp">
+      <Filter>Private\Mac</Filter>
+    </ClCompile>
+    <Filter Include="Private\Windows">
+      <UniqueIdentifier>{98852BE4-8D3D-4517-B33A-C4A5EADA912F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\SlateViewer\Private\Windows\SlateViewerMainWindows.cpp">
+      <Filter>Private\Windows</Filter>
+    </ClCompile>
+    <Filter Include="Public">
+      <UniqueIdentifier>{1E732147-CC19-4F5F-A417-DD182F593D29}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\SlateViewer\Public\SlateViewer.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\SlateViewer\Public\SlateViewerApp.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

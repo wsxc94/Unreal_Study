@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\DatasmithRhino6.Target.cs" />
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\DatasmithRhino6.Build.cs" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{E569F864-A943-41DE-85A8-12ECB2509B9C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Config\DatasmithRhino6.rhp.config">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="DatasmithRhino6">
+      <UniqueIdentifier>{F72C4A36-F9F4-4C43-917F-2266316C3592}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\DatasmithRhino6\DatasmithRhino.cs">
+      <Filter>DatasmithRhino6</Filter>
+    </None>
+    <Filter Include="Installer">
+      <UniqueIdentifier>{01C05704-A4D1-4A7C-A28D-F03DDC207D1A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\CustomActions.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\CustomExitDialog.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\CustomInstallDirDlg.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\CustomLicenseAgreementDlg.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\CustomWelcomeDialog.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\CustomWixUI_InstallDir.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\GenericUiBrandDialog.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\Installer.wixproj">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\ReadMe.txt">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\RhinoExporter.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <Filter Include="Installer\Localization">
+      <UniqueIdentifier>{A15B4594-DDC3-4465-8488-2D29537098F6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\Localization\en-us.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <Filter Include="Installer\Resources">
+      <UniqueIdentifier>{CE5BED5D-95A3-409E-BC79-D20C1440E805}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\Resources\Banner.bmp">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\Resources\default_small_banner.bmp">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\Resources\Dialog.bmp">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\Resources\Exporter Plugin End User License Agreement.docx">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\Resources\Exporter Plugin End User License Agreement.rtf">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\Resources\Microsoft_VC140_CRT_x64.msm">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\Resources\Microsoft_VC140_OpenMP_x64.msm">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\Resources\UnrealEngine.ico">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <Filter Include="Installer\Resources\General">
+      <UniqueIdentifier>{80640F65-F89C-4E90-9146-20177BF138A6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\Resources\General\banner.bmp">
+      <Filter>Installer\Resources\General</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\Resources\General\unreal-logo.jpg">
+      <Filter>Installer\Resources\General</Filter>
+    </None>
+    <Filter Include="Installer\Resources\Images">
+      <UniqueIdentifier>{3F7B5C97-5B4D-45E4-B5F9-AC6AE00B1920}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\Resources\Images\Epic_Games_logo.bmp">
+      <Filter>Installer\Resources\Images</Filter>
+    </None>
+    <Filter Include="Installer\Resources\Images\Background">
+      <UniqueIdentifier>{B06366B6-116C-4E30-9D79-79DAB3089313}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\Resources\Images\Background\28190.bmp">
+      <Filter>Installer\Resources\Images\Background</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\Resources\Images\Background\28402.bmp">
+      <Filter>Installer\Resources\Images\Background</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\Resources\Images\Background\28674.bmp">
+      <Filter>Installer\Resources\Images\Background</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\Resources\Images\Background\30668.bmp">
+      <Filter>Installer\Resources\Images\Background</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\Resources\Images\Background\30725.bmp">
+      <Filter>Installer\Resources\Images\Background</Filter>
+    </None>
+    <Filter Include="Installer\Resources\Images\General">
+      <UniqueIdentifier>{B312994D-B754-4D31-A902-F5FE705B3F98}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\Resources\Images\General\banner.bmp">
+      <Filter>Installer\Resources\Images\General</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Installer\Resources\Images\General\unreal-logo.jpg">
+      <Filter>Installer\Resources\Images\General</Filter>
+    </None>
+    <Filter Include="Private">
+      <UniqueIdentifier>{29C09EAC-50C8-4BF0-B01B-EA6C028C730E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Private\DatasmithRhinoMaterialExporter.cs">
+      <Filter>Private</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Private\DatasmithRhinoMeshExporter.cs">
+      <Filter>Private</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Private\DatasmithRhinoProgressManager.cs">
+      <Filter>Private</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Private\DatasmithRhinoSceneExporter.cs">
+      <Filter>Private</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Private\DatasmithRhinoSceneParser.cs">
+      <Filter>Private</Filter>
+    </None>
+    <Filter Include="Private\Utils">
+      <UniqueIdentifier>{07A140E9-422B-428E-B540-9956979183BD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Private\Utils\DatasmithRhinoUtilities.cs">
+      <Filter>Private\Utils</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Private\Utils\UniqueNameGenerator.cs">
+      <Filter>Private\Utils</Filter>
+    </None>
+    <Filter Include="Properties">
+      <UniqueIdentifier>{8F0B356F-EDB7-4688-B05D-7608E9102779}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Properties\DefaultAssemblyInfo.cs">
+      <Filter>Properties</Filter>
+    </None>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\Properties\GeneratedAssemblyInfo.cs.template">
+      <Filter>Properties</Filter>
+    </None>
+    <Filter Include="SharedResources">
+      <UniqueIdentifier>{DEE7C16F-4FAC-4587-8E8C-78874E362DD4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\..\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRhinoExporter\SharedResources\UnrealEngine.ico">
+      <Filter>SharedResources</Filter>
+    </None>
+  </ItemGroup>
+</Project>
