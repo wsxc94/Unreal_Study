@@ -1,9 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\Users\\wx94\\UnrealStudy\\serverTest\\Source\\serverTest\\serverTest.Build.cs",
-		"C:\\Users\\wx94\\UnrealStudy\\serverTest\\Source\\serverTest.Target.cs",
-		"C:\\Users\\wx94\\UnrealStudy\\serverTest\\Source\\serverTestEditor.Target.cs",
-		"C:\\Users\\wx94\\UnrealStudy\\serverTest\\Source\\serverTestServer.Target.cs"
-	],
-	"EngineVersion": "4.26.2"
-}

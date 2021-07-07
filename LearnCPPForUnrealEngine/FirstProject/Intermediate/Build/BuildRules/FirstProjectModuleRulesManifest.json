@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\wx94\\UnrealStudy\\LearnCPPForUnrealEngine\\FirstProject\\Source\\FirstProject\\FirstProject.Build.cs",
+		"C:\\Users\\wx94\\UnrealStudy\\LearnCPPForUnrealEngine\\FirstProject\\Source\\FirstProject.Target.cs",
+		"C:\\Users\\wx94\\UnrealStudy\\LearnCPPForUnrealEngine\\FirstProject\\Source\\FirstProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

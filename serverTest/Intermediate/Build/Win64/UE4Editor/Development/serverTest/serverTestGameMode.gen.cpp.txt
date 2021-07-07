@@ -1,9 +1,0 @@
-C:\Users\wx94\UnrealStudy\serverTest\Intermediate\Build\Win64\UE4Editor\Development\serverTest\Definitions.serverTest.h
-C:\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\wx94\UnrealStudy\serverTest\Source\serverTest/serverTestGameMode.h
-C:\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\Program Files (x86)\Epic Games\UE4\4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\Program Files (x86)\Epic Games\UE4\4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\Program Files (x86)\Epic Games\UE4\4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-c:\users\wx94\unrealstudy\servertest\intermediate\build\win64\ue4editor\inc\servertest\serverTestGameMode.generated.h

@@ -1,0 +1,7 @@
+C:\Users\wx94\UnrealStudy\LearnCPPForUnrealEngine\FirstProject\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\wx94\UnrealStudy\LearnCPPForUnrealEngine\FirstProject\Source\FirstProject/Weapon.h
+c:\users\wx94\unrealstudy\learncppforunrealengine\firstproject\source\firstproject\Item.h
+c:\users\wx94\unrealstudy\learncppforunrealengine\firstproject\intermediate\build\win64\ue4editor\inc\firstproject\Item.generated.h
+c:\users\wx94\unrealstudy\learncppforunrealengine\firstproject\intermediate\build\win64\ue4editor\inc\firstproject\Weapon.generated.h
